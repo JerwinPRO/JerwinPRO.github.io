@@ -6,3 +6,5 @@ title: Jerwin Projects
 tagline: Website UI Design and Mobile App Development
 description: Deliver customized solution to enable you to get maximum benefit in competitive market.
 paginate: 5
+
+theme: jekyll-theme-cayman
